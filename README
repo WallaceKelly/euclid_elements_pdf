@@ -1,7 +1,11 @@
+This is a fork of the Fitxpatrick repo of Euclid Elements, with the Greek text removed. Just download the pdf file if you want to read only the English version.
+
+QUOTE:
+======================================================
 This repository contains the Latex files required to compile
 a Greek/English version of Euclid's Elements. The Greek text
-is the standard Heiberg edition. The modern English translation 
-was authored by Prof. Richard Fitzpatrick (Department of Physics, 
+is the standard Heiberg edition. The modern English translation
+was authored by Prof. Richard Fitzpatrick (Department of Physics,
 University of Texas at Austin).
 
 The files will only compile properly when the following
